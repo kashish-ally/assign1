@@ -1,0 +1,84 @@
+body{
+    background-color: #54c3ef;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+header a{
+    font-size: 20px;
+    color: #fff748;
+    margin: 24 px;
+}
+header .head{
+    font-size: 90px;
+    text-align: center;
+    color: #fad744;
+    font-family: 'Caveat Brush';
+    text-shadow: 2px 2px black;
+}
+main{
+    width : 75%;
+    background-color: aliceblue;
+    margin: 10px 200px;
+    border-radius: 2%;
+    margin: auto;
+}
+.main-content{
+    float:left;
+    width : 60%;
+}
+article{
+    padding: 10px;
+}
+.article-heading{
+    font-weight:bolder;
+    font-size: 30px;
+    padding: 5px 0px;
+}
+.vid-box{
+    margin:auto;
+    border-bottom: 2px solid grey;
+    border-collapse: collapse;
+    align-content: center;
+}
+.vid-box-vid video{
+    width : 80%;
+    margin: 5% 10% 2% 10%;
+}
+.vid-box-footer{
+    width : 80%;
+    margin: 0% 10% 5% 10%;
+}
+.vid-views{
+    display: inline;
+    width: 75%;
+    text-align: left;
+    font-size: 30px;
+}
+.vid-like{
+    display: inline;
+    width: 25%;
+}
+
+.vid-like i{
+    float: right;
+    font-size: 30px;
+}
+aside{
+    margin-left: 60%;
+    width: 40%;
+    padding: 30px;
+    border-left:2px solid grey;
+}
+.aside-box{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+    background-color: lightgrey;
+    border-radius: 5%;
+    width: 70%;
+}
+.thumbnail{
+    width : 70%;
+    padding: 5%;
+}
