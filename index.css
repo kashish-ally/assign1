@@ -84,13 +84,17 @@ aside{
     border-radius: 5%;
     width: 70%;
 }
+.aside-box:hover{
+    box-shadow: 5px 5px 5px lightgrey;
+    border-color: lime;
+}
 .thumbnail{
     width : 100%;
     border-radius: 5%;
     padding: 0;
 }
 h3{
-    color:red;
+    color:black;
     padding: 2%;
     text-align:center;
     align-content: space-between;
